@@ -1,2 +1,17 @@
-# The-Legend-of-PyZelda-Breath-of-the-Snakes
-Вы когда-нибудь задумывались как создать свою игру на языке программирования Python? Нет?! Это нужно исправить! В нашей книге мы описываем как пошагово создать игру своей мечты на земее свое ​мечты!
+---
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Обложка
+
+<figure><img src=".gitbook/assets/Ti.png" alt=""><figcaption></figcaption></figure>
